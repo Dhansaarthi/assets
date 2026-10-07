@@ -1,0 +1,343 @@
+{
+  "version": 1,
+  "count": 36,
+  "flyers": [
+    {
+      "id": "too-many-mutual-funds",
+      "title": "Do You Have Too Many Mutual Funds?",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/too-many-mutual-funds.png",
+      "tags": [
+        "Portfolio Health Check",
+        "Diversification"
+      ],
+      "crop_top": 0
+    },
+    {
+      "id": "good-returns-healthy-portfolio",
+      "title": "Good Returns Are Great. Is Your Portfolio Healthy?",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/good-returns-healthy-portfolio.png",
+      "tags": [
+        "Portfolio Health Check",
+        "Goal Planning"
+      ],
+      "crop_top": 0
+    },
+    {
+      "id": "portfolio-on-track",
+      "title": "Is Your Mutual Fund Portfolio on Track?",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/portfolio-on-track.png",
+      "tags": [
+        "Portfolio Health Check",
+        "Advisory"
+      ],
+      "crop_top": 0
+    },
+    {
+      "id": "life-changes-portfolio-evolve",
+      "title": "Life Changes. Your Portfolio Should Evolve Too.",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/life-changes-portfolio-evolve.png",
+      "tags": [
+        "Portfolio Health Check",
+        "Goal Planning"
+      ],
+      "crop_top": 0
+    },
+    {
+      "id": "Ganesh-Chaturthi",
+      "title": "Ganesh Chaturthi",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ganesh-chaturthi.png",
+      "tags": [
+        "Festival",
+        "Savings"
+      ],
+      "crop_top": 0
+    },
+    {
+      "id": "10k-per-month-22-lakhs",
+      "title": "₹10,000 per Month = ₹22 Lakhs",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/10k-per-month-22-lakhs.jpeg",
+      "tags": [
+        "SIP",
+        "Wealth",
+        "Compounding"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "25k-per-month-25-yrs",
+      "title": "₹25k per Month in 25 Years",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/25k-per-month-25-yrs.jpeg",
+      "tags": [
+        "SIP",
+        "Wealth",
+        "Compounding"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "autopilot",
+      "title": "Investments on Autopilot",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/autopilot.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "sip-volatility",
+      "title": "Beat the Heat — SIP Volatility",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/sip-volatility.jpeg",
+      "tags": [
+        "SIP",
+        "Volatility"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "child-education-plan",
+      "title": "Child Education Plan",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/child-education-plan.jpeg",
+      "tags": [
+        "Child Education",
+        "Goal Planning"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "connect-financial-expert",
+      "title": "Connect to a Financial Expert",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/connect-financial-expert.jpeg",
+      "tags": [
+        "Advisory"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "daily-sip-example",
+      "title": "SIP Builds Your Tomorrow",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/daily-sip-example.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "direct-vs-regular-mf",
+      "title": "Direct MF vs Your Distributor",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/direct-vs-regular-mf.jpeg",
+      "tags": [
+        "Advisory"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "dream-home-small-sip",
+      "title": "Dream Home — Small SIP",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/dream-home-small-sip.jpeg",
+      "tags": [
+        "Goal Planning"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "emi-vs-sip",
+      "title": "EMI vs SIP",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/emi-vs-sip.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "early-child-future-plan",
+      "title": "Early Child Future Plan",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/early-child-future-plan.jpeg",
+      "tags": [
+        "Child Education",
+        "Start Early"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "equity-investment",
+      "title": "Equity Investment",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/equity-investment.jpeg",
+      "tags": [],
+      "crop_top": 90
+    },
+    {
+      "id": "inflation-top-up-sip",
+      "title": "Inflation Leads to Top-Up SIP",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/inflation-top-up-sip.jpeg",
+      "tags": [],
+      "crop_top": 90
+    },
+    {
+      "id": "diversify-mf",
+      "title": "Invest in Variety — Diversify with MF",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/diversify-mf.jpeg",
+      "tags": [
+        "Diversification"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "invest-with-confidence",
+      "title": "Invest with Confidence",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/invest-with-confidence.jpeg",
+      "tags": [
+        "Advisory"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "multiple-dreams-one-sip",
+      "title": "Multiple Dreams, One SIP Plan",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/multiple-dreams-one-sip.jpeg",
+      "tags": [
+        "SIP",
+        "Goal Planning"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "mutual-fund-roadmap",
+      "title": "Mutual Fund Roadmap",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/mutual-fund-roadmap.jpeg",
+      "tags": [],
+      "crop_top": 90
+    },
+    {
+      "id": "need-want-savings",
+      "title": "Need, Want, Savings",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/need-want-savings.jpeg",
+      "tags": [
+        "Savings"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "no-lumpsum-only-sip",
+      "title": "No Lumpsum, Only SIP",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/no-lumpsum-only-sip.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "one-sip-5-strengths",
+      "title": "One SIP = 5 Strengths",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/one-sip-5-strengths.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "one-sip-long-term-wealth",
+      "title": "One SIP — Long-Term Wealth",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/one-sip-long-term-wealth.jpeg",
+      "tags": [
+        "SIP",
+        "Wealth"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "plan-financial-goal-now",
+      "title": "Plan Financial Goals Now",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/plan-financial-goal-now.jpeg",
+      "tags": [
+        "Goal Planning"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "retirement-sip",
+      "title": "Retirement SIP",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/retirement-sip.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "self-care-routine",
+      "title": "Self Care Routine",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/self-care-routine.jpeg",
+      "tags": [
+        "Savings",
+        "Habits"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "small-top-up-bigger-corpus",
+      "title": "Small Top-Up = Bigger Future Corpus",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/small-top-up-bigger-corpus.jpeg",
+      "tags": [
+        "Compounding"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "small-daily-sip-wealth-habit",
+      "title": "Small Daily SIP = Big Wealth Habit",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/small-daily-sip-wealth-habit.jpeg",
+      "tags": [
+        "SIP",
+        "Habits"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "start-automated-sip",
+      "title": "Start an Automated SIP",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/start-automated-sip.jpeg",
+      "tags": [
+        "SIP"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "start-early-child-education",
+      "title": "Start Early — Child Education Plan",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/start-early-child-education.jpeg",
+      "tags": [
+        "Child Education",
+        "Start Early"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "start-early-example",
+      "title": "Start Early — With Example",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/start-early-example.jpeg",
+      "tags": [
+        "Start Early",
+        "Compounding"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "timely-portfolio-review",
+      "title": "Timely Portfolio Review",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/timely-portfolio-review.jpeg",
+      "tags": [
+        "Advisory"
+      ],
+      "crop_top": 90
+    },
+    {
+      "id": "volatility-needs-balance",
+      "title": "Volatility Needs Balance",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/volatility-needs-balance.jpeg",
+      "tags": [
+        "Volatility",
+        "Diversification"
+      ],
+      "crop_top": 90
+    }
+  ]
+}
