@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 37,
+  "count": 36,
   "flyers": [
     {
       "id": "too-many-mutual-funds",
@@ -338,16 +338,6 @@
         "Diversification"
       ],
       "crop_top": 90
-    },
-    {
-      "id": "demo-testing-asset",
-      "title": "Demo Testing Asset",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/demo-testing-asset.png",
-      "tags": [
-        "Demo",
-        "Testing"
-      ],
-      "crop_top": 0
     }
   ]
 }
