@@ -43,6 +43,10 @@
         "hi": {
           "title": "अच्छे रिटर्न बढ़िया हैं। क्या आपका पोर्टफोलियो स्वस्थ है?",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/good-returns-healthy-portfolio.png"
+        },
+        "ta": {
+          "title": "நல்ல வருமானம் சிறந்தது. உங்கள் முதலீட்டுத் தொகுப்பு ஆரோக்கியமாக உள்ளதா?",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/good-returns-healthy-portfolio.png"
         }
       }
     },
@@ -63,6 +67,10 @@
         "hi": {
           "title": "क्या आपका म्यूचुअल फंड पोर्टफोलियो सही राह पर है?",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/portfolio-on-track.png"
+        },
+        "ta": {
+          "title": "உங்கள் மியூச்சுவல் ஃபண்ட் முதலீட்டுத் தொகுப்பு சரியான பாதையில் உள்ளதா?",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/portfolio-on-track.png"
         }
       }
     },
@@ -83,6 +91,10 @@
         "hi": {
           "title": "ज़िंदगी बदलती है। आपका पोर्टफोलियो भी बदलना चाहिए।",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/life-changes-portfolio-evolve.png"
+        },
+        "ta": {
+          "title": "வாழ்க்கை மாறுகிறது. உங்கள் முதலீட்டுத் தொகுப்பும் மாற வேண்டும்.",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/life-changes-portfolio-evolve.png"
         }
       }
     },
@@ -103,6 +115,10 @@
         "hi": {
           "title": "गणेश चतुर्थी",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/ganesh-chaturthi.png"
+        },
+        "ta": {
+          "title": "விநாயகர் சதுர்த்தி",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/ganesh-chaturthi.png"
         }
       }
     },
@@ -124,6 +140,10 @@
         "hi": {
           "title": "₹10,000 प्रति माह = ₹22 लाख",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/10k-per-month-22-lakhs.png"
+        },
+        "ta": {
+          "title": "மாதம் ₹10,000 = ₹22 லட்சம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/10k-per-month-22-lakhs.jpeg"
         }
       }
     },
@@ -145,6 +165,10 @@
         "hi": {
           "title": "₹25 हज़ार प्रति माह, 25 साल में",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/25k-per-month-25-yrs.png"
+        },
+        "ta": {
+          "title": "மாதம் ₹25,000 முதலீடு: 25 ஆண்டுகளில்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/25k-per-month-25-yrs.jpeg"
         }
       }
     },
@@ -164,6 +188,10 @@
         "hi": {
           "title": "ऑटोपायलट पर निवेश",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/autopilot.png"
+        },
+        "ta": {
+          "title": "தானியங்கி முறையில் முதலீடுகள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/autopilot.jpeg"
         }
       }
     },
@@ -184,6 +212,10 @@
         "hi": {
           "title": "गर्मी को मात दें — SIP से उतार-चढ़ाव में स्थिर रहें",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/sip-volatility.png"
+        },
+        "ta": {
+          "title": "சந்தை ஏற்ற இறக்கங்களை SIP மூலம் சமாளியுங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/sip-volatility.jpeg"
         }
       }
     },
@@ -204,6 +236,10 @@
         "hi": {
           "title": "बच्चों की शिक्षा योजना",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/child-education-plan.png"
+        },
+        "ta": {
+          "title": "குழந்தைகளின் கல்வித் திட்டம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/child-education-plan.jpeg"
         }
       }
     },
@@ -223,6 +259,10 @@
         "hi": {
           "title": "वित्तीय विशेषज्ञ से जुड़ें",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/connect-financial-expert.png"
+        },
+        "ta": {
+          "title": "நிதி நிபுணருடன் இணையுங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/connect-financial-expert.jpeg"
         }
       }
     },
@@ -242,6 +282,10 @@
         "hi": {
           "title": "SIP बनाती है आपका कल",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/daily-sip-example.png"
+        },
+        "ta": {
+          "title": "SIP உங்கள் நாளையை உருவாக்குகிறது",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/daily-sip-example.jpeg"
         }
       }
     },
@@ -261,6 +305,10 @@
         "hi": {
           "title": "डायरेक्ट MF बनाम आपका डिस्ट्रीब्यूटर",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/direct-vs-regular-mf.png"
+        },
+        "ta": {
+          "title": "நேரடி மியூச்சுவல் ஃபண்ட் vs உங்கள் விநியோகஸ்தர்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/direct-vs-regular-mf.jpeg"
         }
       }
     },
@@ -280,6 +328,10 @@
         "hi": {
           "title": "सपनों का घर — छोटी SIP",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/dream-home-small-sip.png"
+        },
+        "ta": {
+          "title": "கனவு வீடு — சிறிய SIP",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/dream-home-small-sip.jpeg"
         }
       }
     },
@@ -299,6 +351,10 @@
         "hi": {
           "title": "EMI बनाम SIP",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/emi-vs-sip.png"
+        },
+        "ta": {
+          "title": "EMI vs SIP",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/emi-vs-sip.jpeg"
         }
       }
     },
@@ -319,6 +375,10 @@
         "hi": {
           "title": "बच्चे के भविष्य की जल्दी योजना",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/early-child-future-plan.png"
+        },
+        "ta": {
+          "title": "குழந்தையின் எதிர்காலத்திற்கான முன்கூட்டிய திட்டம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/early-child-future-plan.jpeg"
         }
       }
     },
@@ -336,6 +396,10 @@
         "hi": {
           "title": "इक्विटी निवेश",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/equity-investment.png"
+        },
+        "ta": {
+          "title": "பங்கு முதலீடு",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/equity-investment.jpeg"
         }
       }
     },
@@ -353,6 +417,10 @@
         "hi": {
           "title": "महंगाई के साथ टॉप-अप SIP",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/inflation-top-up-sip.png"
+        },
+        "ta": {
+          "title": "பணவீக்கத்திற்கு ஏற்ப SIP தொகையை உயர்த்துங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/inflation-top-up-sip.jpeg"
         }
       }
     },
@@ -372,6 +440,10 @@
         "hi": {
           "title": "विविधता में निवेश — म्यूचुअल फंड से डाइवर्सिफ़ाई करें",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/diversify-mf.png"
+        },
+        "ta": {
+          "title": "பல வகைகளில் முதலீடு செய்யுங்கள் — மியூச்சுவல் ஃபண்டுகள் மூலம் பல்வகைப்படுத்துங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/diversify-mf.jpeg"
         }
       }
     },
@@ -391,6 +463,10 @@
         "hi": {
           "title": "आत्मविश्वास के साथ निवेश करें",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/invest-with-confidence.png"
+        },
+        "ta": {
+          "title": "நம்பிக்கையுடன் முதலீடு செய்யுங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/invest-with-confidence.jpeg"
         }
       }
     },
@@ -411,6 +487,10 @@
         "hi": {
           "title": "कई सपने, एक SIP प्लान",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/multiple-dreams-one-sip.png"
+        },
+        "ta": {
+          "title": "பல கனவுகள், ஒரே SIP திட்டம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/multiple-dreams-one-sip.jpeg"
         }
       }
     },
@@ -428,6 +508,10 @@
         "hi": {
           "title": "म्यूचुअल फंड रोडमैप",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/mutual-fund-roadmap.png"
+        },
+        "ta": {
+          "title": "மியூச்சுவல் ஃபண்ட் வழிகாட்டி",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/mutual-fund-roadmap.jpeg"
         }
       }
     },
@@ -447,6 +531,10 @@
         "hi": {
           "title": "ज़रूरत, इच्छा, बचत",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/need-want-savings.png"
+        },
+        "ta": {
+          "title": "தேவை, விருப்பம், சேமிப்பு",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/need-want-savings.jpeg"
         }
       }
     },
@@ -466,6 +554,10 @@
         "hi": {
           "title": "लमसम नहीं, सिर्फ़ SIP",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/no-lumpsum-only-sip.png"
+        },
+        "ta": {
+          "title": "மொத்தத் தொகை முதலீடு இல்லை, SIP மட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/no-lumpsum-only-sip.jpeg"
         }
       }
     },
@@ -485,6 +577,10 @@
         "hi": {
           "title": "एक SIP = 5 ताकतें",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/one-sip-5-strengths.png"
+        },
+        "ta": {
+          "title": "ஒரு SIP = 5 நன்மைகள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/one-sip-5-strengths.jpeg"
         }
       }
     },
@@ -505,6 +601,10 @@
         "hi": {
           "title": "एक SIP — लंबी अवधि की संपत्ति",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/one-sip-long-term-wealth.png"
+        },
+        "ta": {
+          "title": "ஒரு SIP — நீண்டகால செல்வம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/one-sip-long-term-wealth.jpeg"
         }
       }
     },
@@ -524,6 +624,10 @@
         "hi": {
           "title": "अभी अपने वित्तीय लक्ष्य की योजना बनाएँ",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/plan-financial-goal-now.png"
+        },
+        "ta": {
+          "title": "உங்கள் நிதி இலக்குகளை இப்போதே திட்டமிடுங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/plan-financial-goal-now.jpeg"
         }
       }
     },
@@ -543,6 +647,10 @@
         "hi": {
           "title": "रिटायरमेंट SIP",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/retirement-sip.png"
+        },
+        "ta": {
+          "title": "ஓய்வுக்கால SIP",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/retirement-sip.jpeg"
         }
       }
     },
@@ -563,6 +671,10 @@
         "hi": {
           "title": "सेल्फ-केयर रूटीन",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/self-care-routine.png"
+        },
+        "ta": {
+          "title": "சுய பராமரிப்பு வழக்கம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/self-care-routine.jpeg"
         }
       }
     },
@@ -582,6 +694,10 @@
         "hi": {
           "title": "छोटा टॉप-अप = बड़ा कॉर्पस",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/small-top-up-bigger-corpus.png"
+        },
+        "ta": {
+          "title": "சிறிய கூடுதல் முதலீடு = பெரிய எதிர்காலத் தொகை",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/small-top-up-bigger-corpus.jpeg"
         }
       }
     },
@@ -602,6 +718,10 @@
         "hi": {
           "title": "छोटी डेली SIP = संपत्ति की बड़ी आदत",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/small-daily-sip-wealth-habit.png"
+        },
+        "ta": {
+          "title": "சிறிய தினசரி SIP = செல்வத்தை உருவாக்கும் சிறந்த பழக்கம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/small-daily-sip-wealth-habit.jpeg"
         }
       }
     },
@@ -621,6 +741,10 @@
         "hi": {
           "title": "ऑटोमेटेड SIP शुरू करें",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-automated-sip.png"
+        },
+        "ta": {
+          "title": "தானியங்கி SIP-ஐத் தொடங்குங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-automated-sip.jpeg"
         }
       }
     },
@@ -641,6 +765,10 @@
         "hi": {
           "title": "जल्दी शुरुआत — बच्चे की शिक्षा योजना",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-early-child-education.png"
+        },
+        "ta": {
+          "title": "முன்கூட்டியே தொடங்குங்கள் — குழந்தையின் கல்வித் திட்டம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-early-child-education.jpeg"
         }
       }
     },
@@ -661,6 +789,10 @@
         "hi": {
           "title": "जल्दी शुरू करें — उदाहरण के साथ",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-early-example.png"
+        },
+        "ta": {
+          "title": "முன்கூட்டியே தொடங்குங்கள் — ஓர் எடுத்துக்காட்டுடன்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-early-example.jpeg"
         }
       }
     },
@@ -680,6 +812,10 @@
         "hi": {
           "title": "समय पर पोर्टफोलियो रिव्यू",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/timely-portfolio-review.png"
+        },
+        "ta": {
+          "title": "சரியான நேரத்தில் முதலீட்டுத் தொகுப்பை மதிப்பாய்வு செய்யுங்கள்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/timely-portfolio-review.jpeg"
         }
       }
     },
@@ -700,6 +836,10 @@
         "hi": {
           "title": "उतार-चढ़ाव में चाहिए संतुलन",
           "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/volatility-needs-balance.png"
+        },
+        "ta": {
+          "title": "சந்தை ஏற்ற இறக்கங்களுக்கு சமநிலை தேவை",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/volatility-needs-balance.jpeg"
         }
       }
     }
