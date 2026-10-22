@@ -5,7 +5,8 @@
     {
       "id": "too-many-mutual-funds",
       "title": "Do You Have Too Many Mutual Funds?",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/too-many-mutual-funds.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/too-many-mutual-funds.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/too-many-mutual-funds.jpg",
       "tags": [
         "Portfolio Health Check",
         "Diversification"
@@ -14,22 +15,23 @@
       "languages": {
         "en": {
           "title": "Do You Have Too Many Mutual Funds?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/too-many-mutual-funds.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/too-many-mutual-funds.jpg"
         },
         "hi": {
           "title": "क्या आपके पास बहुत ज़्यादा म्यूचुअल फंड हैं?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/too-many-mutual-funds.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/too-many-mutual-funds.jpg"
         },
         "ta": {
           "title": "உங்களிடம் மிக அதிகமான மியூச்சுவல் ஃபண்டுகள் உள்ளனவா?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/too-many-mutual-funds.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/too-many-mutual-funds.jpg"
         }
       }
     },
     {
       "id": "good-returns-healthy-portfolio",
       "title": "Good Returns Are Great. Is Your Portfolio Healthy?",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/good-returns-healthy-portfolio.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/good-returns-healthy-portfolio.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/good-returns-healthy-portfolio.jpg",
       "tags": [
         "Portfolio Health Check",
         "Goal Planning"
@@ -38,22 +40,23 @@
       "languages": {
         "en": {
           "title": "Good Returns Are Great. Is Your Portfolio Healthy?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/good-returns-healthy-portfolio.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/good-returns-healthy-portfolio.jpg"
         },
         "hi": {
           "title": "अच्छे रिटर्न बढ़िया हैं। क्या आपका पोर्टफोलियो स्वस्थ है?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/good-returns-healthy-portfolio.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/good-returns-healthy-portfolio.jpg"
         },
         "ta": {
           "title": "நல்ல வருமானம் சிறந்தது. உங்கள் முதலீட்டுத் தொகுப்பு ஆரோக்கியமாக உள்ளதா?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/good-returns-healthy-portfolio.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/good-returns-healthy-portfolio.jpg"
         }
       }
     },
     {
       "id": "portfolio-on-track",
       "title": "Is Your Mutual Fund Portfolio on Track?",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/portfolio-on-track.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/portfolio-on-track.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/portfolio-on-track.jpg",
       "tags": [
         "Portfolio Health Check",
         "Advisory"
@@ -62,22 +65,23 @@
       "languages": {
         "en": {
           "title": "Is Your Mutual Fund Portfolio on Track?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/portfolio-on-track.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/portfolio-on-track.jpg"
         },
         "hi": {
           "title": "क्या आपका म्यूचुअल फंड पोर्टफोलियो सही राह पर है?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/portfolio-on-track.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/portfolio-on-track.jpg"
         },
         "ta": {
           "title": "உங்கள் மியூச்சுவல் ஃபண்ட் முதலீட்டுத் தொகுப்பு சரியான பாதையில் உள்ளதா?",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/portfolio-on-track.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/portfolio-on-track.jpg"
         }
       }
     },
     {
       "id": "life-changes-portfolio-evolve",
       "title": "Life Changes. Your Portfolio Should Evolve Too.",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/life-changes-portfolio-evolve.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/life-changes-portfolio-evolve.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/life-changes-portfolio-evolve.jpg",
       "tags": [
         "Portfolio Health Check",
         "Goal Planning"
@@ -86,22 +90,23 @@
       "languages": {
         "en": {
           "title": "Life Changes. Your Portfolio Should Evolve Too.",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/life-changes-portfolio-evolve.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/life-changes-portfolio-evolve.jpg"
         },
         "hi": {
           "title": "ज़िंदगी बदलती है। आपका पोर्टफोलियो भी बदलना चाहिए।",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/life-changes-portfolio-evolve.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/life-changes-portfolio-evolve.jpg"
         },
         "ta": {
           "title": "வாழ்க்கை மாறுகிறது. உங்கள் முதலீட்டுத் தொகுப்பும் மாற வேண்டும்.",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/life-changes-portfolio-evolve.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/life-changes-portfolio-evolve.jpg"
         }
       }
     },
     {
       "id": "ganesh-chaturthi",
       "title": "Ganesh Chaturthi",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/ganesh-chaturthi.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/ganesh-chaturthi.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/ganesh-chaturthi.jpg",
       "tags": [
         "Festival",
         "Savings"
@@ -110,22 +115,23 @@
       "languages": {
         "en": {
           "title": "Ganesh Chaturthi",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/ganesh-chaturthi.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/ganesh-chaturthi.jpg"
         },
         "hi": {
           "title": "गणेश चतुर्थी",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/ganesh-chaturthi.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/ganesh-chaturthi.jpg"
         },
         "ta": {
           "title": "விநாயகர் சதுர்த்தி",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/ganesh-chaturthi.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/ganesh-chaturthi.jpg"
         }
       }
     },
     {
       "id": "10k-per-month-22-lakhs",
       "title": "₹10,000 per Month = ₹22 Lakhs",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/10k-per-month-22-lakhs.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/10k-per-month-22-lakhs.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/10k-per-month-22-lakhs.jpg",
       "tags": [
         "SIP",
         "Wealth",
@@ -135,22 +141,23 @@
       "languages": {
         "en": {
           "title": "₹10,000 per Month = ₹22 Lakhs",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/10k-per-month-22-lakhs.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/10k-per-month-22-lakhs.jpg"
         },
         "hi": {
           "title": "₹10,000 प्रति माह = ₹22 लाख",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/10k-per-month-22-lakhs.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/10k-per-month-22-lakhs.jpg"
         },
         "ta": {
           "title": "மாதம் ₹10,000 = ₹22 லட்சம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/10k-per-month-22-lakhs.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/10k-per-month-22-lakhs.jpg"
         }
       }
     },
     {
       "id": "25k-per-month-25-yrs",
       "title": "₹25k per Month in 25 Years",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/25k-per-month-25-yrs.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/25k-per-month-25-yrs.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/25k-per-month-25-yrs.jpg",
       "tags": [
         "SIP",
         "Wealth",
@@ -160,22 +167,23 @@
       "languages": {
         "en": {
           "title": "₹25k per Month in 25 Years",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/25k-per-month-25-yrs.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/25k-per-month-25-yrs.jpg"
         },
         "hi": {
           "title": "₹25 हज़ार प्रति माह, 25 साल में",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/25k-per-month-25-yrs.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/25k-per-month-25-yrs.jpg"
         },
         "ta": {
           "title": "மாதம் ₹25,000 முதலீடு: 25 ஆண்டுகளில்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/25k-per-month-25-yrs.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/25k-per-month-25-yrs.jpg"
         }
       }
     },
     {
       "id": "autopilot",
       "title": "Investments on Autopilot",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/autopilot.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/autopilot.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/autopilot.jpg",
       "tags": [
         "SIP"
       ],
@@ -183,22 +191,23 @@
       "languages": {
         "en": {
           "title": "Investments on Autopilot",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/autopilot.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/autopilot.jpg"
         },
         "hi": {
           "title": "ऑटोपायलट पर निवेश",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/autopilot.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/autopilot.jpg"
         },
         "ta": {
           "title": "தானியங்கி முறையில் முதலீடுகள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/autopilot.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/autopilot.jpg"
         }
       }
     },
     {
       "id": "sip-volatility",
       "title": "Beat the Heat — SIP Volatility",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/sip-volatility.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/sip-volatility.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/sip-volatility.jpg",
       "tags": [
         "SIP",
         "Volatility"
@@ -207,22 +216,23 @@
       "languages": {
         "en": {
           "title": "Beat the Heat — SIP Volatility",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/sip-volatility.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/sip-volatility.jpg"
         },
         "hi": {
           "title": "गर्मी को मात दें — SIP से उतार-चढ़ाव में स्थिर रहें",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/sip-volatility.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/sip-volatility.jpg"
         },
         "ta": {
           "title": "சந்தை ஏற்ற இறக்கங்களை SIP மூலம் சமாளியுங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/sip-volatility.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/sip-volatility.jpg"
         }
       }
     },
     {
       "id": "child-education-plan",
       "title": "Child Education Plan",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/child-education-plan.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/child-education-plan.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/child-education-plan.jpg",
       "tags": [
         "Child Education",
         "Goal Planning"
@@ -231,22 +241,23 @@
       "languages": {
         "en": {
           "title": "Child Education Plan",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/child-education-plan.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/child-education-plan.jpg"
         },
         "hi": {
           "title": "बच्चों की शिक्षा योजना",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/child-education-plan.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/child-education-plan.jpg"
         },
         "ta": {
           "title": "குழந்தைகளின் கல்வித் திட்டம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/child-education-plan.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/child-education-plan.jpg"
         }
       }
     },
     {
       "id": "connect-financial-expert",
       "title": "Connect to a Financial Expert",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/connect-financial-expert.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/connect-financial-expert.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/connect-financial-expert.jpg",
       "tags": [
         "Advisory"
       ],
@@ -254,22 +265,23 @@
       "languages": {
         "en": {
           "title": "Connect to a Financial Expert",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/connect-financial-expert.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/connect-financial-expert.jpg"
         },
         "hi": {
           "title": "वित्तीय विशेषज्ञ से जुड़ें",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/connect-financial-expert.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/connect-financial-expert.jpg"
         },
         "ta": {
           "title": "நிதி நிபுணருடன் இணையுங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/connect-financial-expert.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/connect-financial-expert.jpg"
         }
       }
     },
     {
       "id": "daily-sip-example",
       "title": "SIP Builds Your Tomorrow",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/daily-sip-example.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/daily-sip-example.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/daily-sip-example.jpg",
       "tags": [
         "SIP"
       ],
@@ -277,22 +289,23 @@
       "languages": {
         "en": {
           "title": "SIP Builds Your Tomorrow",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/daily-sip-example.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/daily-sip-example.jpg"
         },
         "hi": {
           "title": "SIP बनाती है आपका कल",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/daily-sip-example.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/daily-sip-example.jpg"
         },
         "ta": {
           "title": "SIP உங்கள் நாளையை உருவாக்குகிறது",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/daily-sip-example.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/daily-sip-example.jpg"
         }
       }
     },
     {
       "id": "direct-vs-regular-mf",
       "title": "Direct MF vs Your Distributor",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/direct-vs-regular-mf.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/direct-vs-regular-mf.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/direct-vs-regular-mf.jpg",
       "tags": [
         "Advisory"
       ],
@@ -300,22 +313,23 @@
       "languages": {
         "en": {
           "title": "Direct MF vs Your Distributor",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/direct-vs-regular-mf.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/direct-vs-regular-mf.jpg"
         },
         "hi": {
           "title": "डायरेक्ट MF बनाम आपका डिस्ट्रीब्यूटर",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/direct-vs-regular-mf.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/direct-vs-regular-mf.jpg"
         },
         "ta": {
           "title": "நேரடி மியூச்சுவல் ஃபண்ட் vs உங்கள் விநியோகஸ்தர்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/direct-vs-regular-mf.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/direct-vs-regular-mf.jpg"
         }
       }
     },
     {
       "id": "dream-home-small-sip",
       "title": "Dream Home — Small SIP",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dream-home-small-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dream-home-small-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/dream-home-small-sip.jpg",
       "tags": [
         "Goal Planning"
       ],
@@ -323,22 +337,23 @@
       "languages": {
         "en": {
           "title": "Dream Home — Small SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dream-home-small-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dream-home-small-sip.jpg"
         },
         "hi": {
           "title": "सपनों का घर — छोटी SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/dream-home-small-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/dream-home-small-sip.jpg"
         },
         "ta": {
           "title": "கனவு வீடு — சிறிய SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/dream-home-small-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/dream-home-small-sip.jpg"
         }
       }
     },
     {
       "id": "emi-vs-sip",
       "title": "EMI vs SIP",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/emi-vs-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/emi-vs-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/emi-vs-sip.jpg",
       "tags": [
         "SIP"
       ],
@@ -346,22 +361,23 @@
       "languages": {
         "en": {
           "title": "EMI vs SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/emi-vs-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/emi-vs-sip.jpg"
         },
         "hi": {
           "title": "EMI बनाम SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/emi-vs-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/emi-vs-sip.jpg"
         },
         "ta": {
           "title": "EMI vs SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/emi-vs-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/emi-vs-sip.jpg"
         }
       }
     },
     {
       "id": "early-child-future-plan",
       "title": "Early Child Future Plan",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/early-child-future-plan.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/early-child-future-plan.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/early-child-future-plan.jpg",
       "tags": [
         "Child Education",
         "Start Early"
@@ -370,64 +386,67 @@
       "languages": {
         "en": {
           "title": "Early Child Future Plan",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/early-child-future-plan.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/early-child-future-plan.jpg"
         },
         "hi": {
           "title": "बच्चे के भविष्य की जल्दी योजना",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/early-child-future-plan.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/early-child-future-plan.jpg"
         },
         "ta": {
           "title": "குழந்தையின் எதிர்காலத்திற்கான முன்கூட்டிய திட்டம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/early-child-future-plan.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/early-child-future-plan.jpg"
         }
       }
     },
     {
       "id": "equity-investment",
       "title": "Equity Investment",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/equity-investment.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/equity-investment.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/equity-investment.jpg",
       "tags": [],
       "crop_top": 90,
       "languages": {
         "en": {
           "title": "Equity Investment",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/equity-investment.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/equity-investment.jpg"
         },
         "hi": {
           "title": "इक्विटी निवेश",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/equity-investment.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/equity-investment.jpg"
         },
         "ta": {
           "title": "பங்கு முதலீடு",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/equity-investment.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/equity-investment.jpg"
         }
       }
     },
     {
       "id": "inflation-top-up-sip",
       "title": "Inflation Leads to Top-Up SIP",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/inflation-top-up-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/inflation-top-up-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/inflation-top-up-sip.jpg",
       "tags": [],
       "crop_top": 90,
       "languages": {
         "en": {
           "title": "Inflation Leads to Top-Up SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/inflation-top-up-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/inflation-top-up-sip.jpg"
         },
         "hi": {
           "title": "महंगाई के साथ टॉप-अप SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/inflation-top-up-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/inflation-top-up-sip.jpg"
         },
         "ta": {
           "title": "பணவீக்கத்திற்கு ஏற்ப SIP தொகையை உயர்த்துங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/inflation-top-up-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/inflation-top-up-sip.jpg"
         }
       }
     },
     {
       "id": "diversify-mf",
       "title": "Invest in Variety — Diversify with MF",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diversify-mf.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diversify-mf.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/diversify-mf.jpg",
       "tags": [
         "Diversification"
       ],
@@ -435,22 +454,23 @@
       "languages": {
         "en": {
           "title": "Invest in Variety — Diversify with MF",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diversify-mf.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diversify-mf.jpg"
         },
         "hi": {
           "title": "विविधता में निवेश — म्यूचुअल फंड से डाइवर्सिफ़ाई करें",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/diversify-mf.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/diversify-mf.jpg"
         },
         "ta": {
           "title": "பல வகைகளில் முதலீடு செய்யுங்கள் — மியூச்சுவல் ஃபண்டுகள் மூலம் பல்வகைப்படுத்துங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/diversify-mf.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/diversify-mf.jpg"
         }
       }
     },
     {
       "id": "invest-with-confidence",
       "title": "Invest with Confidence",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/invest-with-confidence.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/invest-with-confidence.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/invest-with-confidence.jpg",
       "tags": [
         "Advisory"
       ],
@@ -458,22 +478,23 @@
       "languages": {
         "en": {
           "title": "Invest with Confidence",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/invest-with-confidence.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/invest-with-confidence.jpg"
         },
         "hi": {
           "title": "आत्मविश्वास के साथ निवेश करें",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/invest-with-confidence.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/invest-with-confidence.jpg"
         },
         "ta": {
           "title": "நம்பிக்கையுடன் முதலீடு செய்யுங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/invest-with-confidence.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/invest-with-confidence.jpg"
         }
       }
     },
     {
       "id": "multiple-dreams-one-sip",
       "title": "Multiple Dreams, One SIP Plan",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/multiple-dreams-one-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/multiple-dreams-one-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/multiple-dreams-one-sip.jpg",
       "tags": [
         "SIP",
         "Goal Planning"
@@ -482,43 +503,45 @@
       "languages": {
         "en": {
           "title": "Multiple Dreams, One SIP Plan",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/multiple-dreams-one-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/multiple-dreams-one-sip.jpg"
         },
         "hi": {
           "title": "कई सपने, एक SIP प्लान",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/multiple-dreams-one-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/multiple-dreams-one-sip.jpg"
         },
         "ta": {
           "title": "பல கனவுகள், ஒரே SIP திட்டம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/multiple-dreams-one-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/multiple-dreams-one-sip.jpg"
         }
       }
     },
     {
       "id": "mutual-fund-roadmap",
       "title": "Mutual Fund Roadmap",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/mutual-fund-roadmap.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/mutual-fund-roadmap.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/mutual-fund-roadmap.jpg",
       "tags": [],
       "crop_top": 90,
       "languages": {
         "en": {
           "title": "Mutual Fund Roadmap",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/mutual-fund-roadmap.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/mutual-fund-roadmap.jpg"
         },
         "hi": {
           "title": "म्यूचुअल फंड रोडमैप",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/mutual-fund-roadmap.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/mutual-fund-roadmap.jpg"
         },
         "ta": {
           "title": "மியூச்சுவல் ஃபண்ட் வழிகாட்டி",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/mutual-fund-roadmap.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/mutual-fund-roadmap.jpg"
         }
       }
     },
     {
       "id": "need-want-savings",
       "title": "Need, Want, Savings",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/need-want-savings.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/need-want-savings.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/need-want-savings.jpg",
       "tags": [
         "Savings"
       ],
@@ -526,22 +549,23 @@
       "languages": {
         "en": {
           "title": "Need, Want, Savings",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/need-want-savings.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/need-want-savings.jpg"
         },
         "hi": {
           "title": "ज़रूरत, इच्छा, बचत",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/need-want-savings.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/need-want-savings.jpg"
         },
         "ta": {
           "title": "தேவை, விருப்பம், சேமிப்பு",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/need-want-savings.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/need-want-savings.jpg"
         }
       }
     },
     {
       "id": "no-lumpsum-only-sip",
       "title": "No Lumpsum, Only SIP",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/no-lumpsum-only-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/no-lumpsum-only-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/no-lumpsum-only-sip.jpg",
       "tags": [
         "SIP"
       ],
@@ -549,22 +573,23 @@
       "languages": {
         "en": {
           "title": "No Lumpsum, Only SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/no-lumpsum-only-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/no-lumpsum-only-sip.jpg"
         },
         "hi": {
           "title": "लमसम नहीं, सिर्फ़ SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/no-lumpsum-only-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/no-lumpsum-only-sip.jpg"
         },
         "ta": {
           "title": "மொத்தத் தொகை முதலீடு இல்லை, SIP மட்டும்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/no-lumpsum-only-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/no-lumpsum-only-sip.jpg"
         }
       }
     },
     {
       "id": "one-sip-5-strengths",
       "title": "One SIP = 5 Strengths",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-5-strengths.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-5-strengths.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/one-sip-5-strengths.jpg",
       "tags": [
         "SIP"
       ],
@@ -572,22 +597,23 @@
       "languages": {
         "en": {
           "title": "One SIP = 5 Strengths",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-5-strengths.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-5-strengths.jpg"
         },
         "hi": {
           "title": "एक SIP = 5 ताकतें",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/one-sip-5-strengths.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/one-sip-5-strengths.jpg"
         },
         "ta": {
           "title": "ஒரு SIP = 5 நன்மைகள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/one-sip-5-strengths.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/one-sip-5-strengths.jpg"
         }
       }
     },
     {
       "id": "one-sip-long-term-wealth",
       "title": "One SIP — Long-Term Wealth",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-long-term-wealth.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-long-term-wealth.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/one-sip-long-term-wealth.jpg",
       "tags": [
         "SIP",
         "Wealth"
@@ -596,22 +622,23 @@
       "languages": {
         "en": {
           "title": "One SIP — Long-Term Wealth",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-long-term-wealth.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/one-sip-long-term-wealth.jpg"
         },
         "hi": {
           "title": "एक SIP — लंबी अवधि की संपत्ति",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/one-sip-long-term-wealth.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/one-sip-long-term-wealth.jpg"
         },
         "ta": {
           "title": "ஒரு SIP — நீண்டகால செல்வம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/one-sip-long-term-wealth.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/one-sip-long-term-wealth.jpg"
         }
       }
     },
     {
       "id": "plan-financial-goal-now",
       "title": "Plan Financial Goals Now",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/plan-financial-goal-now.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/plan-financial-goal-now.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/plan-financial-goal-now.jpg",
       "tags": [
         "Goal Planning"
       ],
@@ -619,22 +646,23 @@
       "languages": {
         "en": {
           "title": "Plan Financial Goals Now",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/plan-financial-goal-now.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/plan-financial-goal-now.jpg"
         },
         "hi": {
           "title": "अभी अपने वित्तीय लक्ष्य की योजना बनाएँ",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/plan-financial-goal-now.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/plan-financial-goal-now.jpg"
         },
         "ta": {
           "title": "உங்கள் நிதி இலக்குகளை இப்போதே திட்டமிடுங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/plan-financial-goal-now.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/plan-financial-goal-now.jpg"
         }
       }
     },
     {
       "id": "retirement-sip",
       "title": "Retirement SIP",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/retirement-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/retirement-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/retirement-sip.jpg",
       "tags": [
         "SIP"
       ],
@@ -642,22 +670,23 @@
       "languages": {
         "en": {
           "title": "Retirement SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/retirement-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/retirement-sip.jpg"
         },
         "hi": {
           "title": "रिटायरमेंट SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/retirement-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/retirement-sip.jpg"
         },
         "ta": {
           "title": "ஓய்வுக்கால SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/retirement-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/retirement-sip.jpg"
         }
       }
     },
     {
       "id": "self-care-routine",
       "title": "Self Care Routine",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/self-care-routine.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/self-care-routine.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/self-care-routine.jpg",
       "tags": [
         "Savings",
         "Habits"
@@ -666,22 +695,23 @@
       "languages": {
         "en": {
           "title": "Self Care Routine",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/self-care-routine.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/self-care-routine.jpg"
         },
         "hi": {
           "title": "सेल्फ-केयर रूटीन",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/self-care-routine.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/self-care-routine.jpg"
         },
         "ta": {
           "title": "சுய பராமரிப்பு வழக்கம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/self-care-routine.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/self-care-routine.jpg"
         }
       }
     },
     {
       "id": "small-top-up-bigger-corpus",
       "title": "Small Top-Up = Bigger Future Corpus",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-top-up-bigger-corpus.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-top-up-bigger-corpus.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/small-top-up-bigger-corpus.jpg",
       "tags": [
         "Compounding"
       ],
@@ -689,22 +719,23 @@
       "languages": {
         "en": {
           "title": "Small Top-Up = Bigger Future Corpus",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-top-up-bigger-corpus.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-top-up-bigger-corpus.jpg"
         },
         "hi": {
           "title": "छोटा टॉप-अप = बड़ा कॉर्पस",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/small-top-up-bigger-corpus.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/small-top-up-bigger-corpus.jpg"
         },
         "ta": {
           "title": "சிறிய கூடுதல் முதலீடு = பெரிய எதிர்காலத் தொகை",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/small-top-up-bigger-corpus.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/small-top-up-bigger-corpus.jpg"
         }
       }
     },
     {
       "id": "small-daily-sip-wealth-habit",
       "title": "Small Daily SIP = Big Wealth Habit",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-daily-sip-wealth-habit.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-daily-sip-wealth-habit.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/small-daily-sip-wealth-habit.jpg",
       "tags": [
         "SIP",
         "Habits"
@@ -713,22 +744,23 @@
       "languages": {
         "en": {
           "title": "Small Daily SIP = Big Wealth Habit",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-daily-sip-wealth-habit.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/small-daily-sip-wealth-habit.jpg"
         },
         "hi": {
           "title": "छोटी डेली SIP = संपत्ति की बड़ी आदत",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/small-daily-sip-wealth-habit.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/small-daily-sip-wealth-habit.jpg"
         },
         "ta": {
           "title": "சிறிய தினசரி SIP = செல்வத்தை உருவாக்கும் சிறந்த பழக்கம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/small-daily-sip-wealth-habit.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/small-daily-sip-wealth-habit.jpg"
         }
       }
     },
     {
       "id": "start-automated-sip",
       "title": "Start an Automated SIP",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-automated-sip.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-automated-sip.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/start-automated-sip.jpg",
       "tags": [
         "SIP"
       ],
@@ -736,22 +768,23 @@
       "languages": {
         "en": {
           "title": "Start an Automated SIP",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-automated-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-automated-sip.jpg"
         },
         "hi": {
           "title": "ऑटोमेटेड SIP शुरू करें",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-automated-sip.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-automated-sip.jpg"
         },
         "ta": {
           "title": "தானியங்கி SIP-ஐத் தொடங்குங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-automated-sip.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-automated-sip.jpg"
         }
       }
     },
     {
       "id": "start-early-child-education",
       "title": "Start Early — Child Education Plan",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-child-education.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-child-education.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/start-early-child-education.jpg",
       "tags": [
         "Child Education",
         "Start Early"
@@ -760,22 +793,23 @@
       "languages": {
         "en": {
           "title": "Start Early — Child Education Plan",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-child-education.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-child-education.jpg"
         },
         "hi": {
           "title": "जल्दी शुरुआत — बच्चे की शिक्षा योजना",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-early-child-education.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-early-child-education.jpg"
         },
         "ta": {
           "title": "முன்கூட்டியே தொடங்குங்கள் — குழந்தையின் கல்வித் திட்டம்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-early-child-education.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-early-child-education.jpg"
         }
       }
     },
     {
       "id": "start-early-example",
       "title": "Start Early — With Example",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-example.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-example.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/start-early-example.jpg",
       "tags": [
         "Start Early",
         "Compounding"
@@ -784,22 +818,23 @@
       "languages": {
         "en": {
           "title": "Start Early — With Example",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-example.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/start-early-example.jpg"
         },
         "hi": {
           "title": "जल्दी शुरू करें — उदाहरण के साथ",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-early-example.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/start-early-example.jpg"
         },
         "ta": {
           "title": "முன்கூட்டியே தொடங்குங்கள் — ஓர் எடுத்துக்காட்டுடன்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-early-example.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/start-early-example.jpg"
         }
       }
     },
     {
       "id": "timely-portfolio-review",
       "title": "Timely Portfolio Review",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/timely-portfolio-review.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/timely-portfolio-review.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/timely-portfolio-review.jpg",
       "tags": [
         "Advisory"
       ],
@@ -807,22 +842,23 @@
       "languages": {
         "en": {
           "title": "Timely Portfolio Review",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/timely-portfolio-review.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/timely-portfolio-review.jpg"
         },
         "hi": {
           "title": "समय पर पोर्टफोलियो रिव्यू",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/timely-portfolio-review.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/timely-portfolio-review.jpg"
         },
         "ta": {
           "title": "சரியான நேரத்தில் முதலீட்டுத் தொகுப்பை மதிப்பாய்வு செய்யுங்கள்",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/timely-portfolio-review.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/timely-portfolio-review.jpg"
         }
       }
     },
     {
       "id": "volatility-needs-balance",
       "title": "Volatility Needs Balance",
-      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/volatility-needs-balance.jpeg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/volatility-needs-balance.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/volatility-needs-balance.jpg",
       "tags": [
         "Volatility",
         "Diversification"
@@ -831,15 +867,15 @@
       "languages": {
         "en": {
           "title": "Volatility Needs Balance",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/volatility-needs-balance.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/volatility-needs-balance.jpg"
         },
         "hi": {
           "title": "उतार-चढ़ाव में चाहिए संतुलन",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/volatility-needs-balance.png"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/hi/volatility-needs-balance.jpg"
         },
         "ta": {
           "title": "சந்தை ஏற்ற இறக்கங்களுக்கு சமநிலை தேவை",
-          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/volatility-needs-balance.jpeg"
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/ta/volatility-needs-balance.jpg"
         }
       }
     }
