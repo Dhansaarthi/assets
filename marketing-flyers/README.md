@@ -8,6 +8,7 @@ marketing-flyers/
   en/<flyer-id>.jpg      # one folder per language code
   hi/<flyer-id>.jpg
   ta/<flyer-id>.jpg
+  mr/<flyer-id>.jpg
   thumbs/<flyer-id>.jpg  # small English copy for the app's grid
 ```
 
