@@ -9,6 +9,7 @@ marketing-flyers/
   hi/<flyer-id>.jpg
   ta/<flyer-id>.jpg
   mr/<flyer-id>.jpg
+  ml/<flyer-id>.jpg
   thumbs/<flyer-id>.jpg  # small English copy for the app's grid
 ```
 
