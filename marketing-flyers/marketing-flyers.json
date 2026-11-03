@@ -1,7 +1,327 @@
 {
   "version": 2,
-  "count": 36,
+  "count": 46,
   "flyers": [
+    {
+      "id": "dhanteras-silver-shagun",
+      "title": "A Little Silver, A Lot of Shagun",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-silver-shagun.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/dhanteras-silver-shagun.jpg",
+      "tags": [
+        "Festival"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "A Little Silver, A Lot of Shagun",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-silver-shagun.jpg"
+        },
+        "hi": {
+          "title": "थोड़ी-सी चाँदी, ढेर सारा शगुन",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-silver-shagun.jpg"
+        },
+        "ta": {
+          "title": "கொஞ்சம் வெள்ளி, நிறைய மங்கலம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-silver-shagun.jpg"
+        },
+        "mr": {
+          "title": "थोडी चांदी, भरपूर शकुन",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-silver-shagun.jpg"
+        },
+        "ml": {
+          "title": "അല്പം വെള്ളി, ഒരുപാട് ഐശ്വര്യം",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-silver-shagun.jpg"
+        }
+      }
+    },
+    {
+      "id": "dhanteras-gold-shine",
+      "title": "May Your Dreams Outshine Your Gold",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-gold-shine.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/dhanteras-gold-shine.jpg",
+      "tags": [
+        "Festival"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "May Your Dreams Outshine Your Gold",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-gold-shine.jpg"
+        },
+        "hi": {
+          "title": "सोने से भी ज़्यादा चमकें आपके सपने",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-gold-shine.jpg"
+        },
+        "ta": {
+          "title": "தங்கத்தை விட உங்கள் கனவுகள் ஜொலிக்கட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-gold-shine.jpg"
+        },
+        "mr": {
+          "title": "सोन्यापेक्षाही उजळोत तुमची स्वप्ने",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-gold-shine.jpg"
+        },
+        "ml": {
+          "title": "സ്വർണത്തേക്കാൾ നിങ്ങളുടെ സ്വപ്നങ്ങൾ തിളങ്ങട്ടെ",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/dhanteras-gold-shine.jpg"
+        }
+      }
+    },
+    {
+      "id": "diwali-lakshmi-blessings",
+      "title": "Maa Lakshmi's Blessings for Your Home",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-lakshmi-blessings.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/diwali-lakshmi-blessings.jpg",
+      "tags": [
+        "Festival"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "Maa Lakshmi's Blessings for Your Home",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-lakshmi-blessings.jpg"
+        },
+        "hi": {
+          "title": "आपके घर पर बनी रहे माँ लक्ष्मी की कृपा",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-lakshmi-blessings.jpg"
+        },
+        "ta": {
+          "title": "மகாலட்சுமியின் அருள் உங்கள் இல்லத்தில் நிறையட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-lakshmi-blessings.jpg"
+        },
+        "mr": {
+          "title": "तुमच्या घरावर लक्ष्मी मातेची कृपा राहो",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-lakshmi-blessings.jpg"
+        },
+        "ml": {
+          "title": "ലക്ഷ്മീദേവിയുടെ അനുഗ്രഹം നിങ്ങളുടെ വീട്ടിൽ നിറയട്ടെ",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-lakshmi-blessings.jpg"
+        }
+      }
+    },
+    {
+      "id": "diwali-portfolio-soar",
+      "title": "May Your Diwali Sparkle and Your Portfolio Soar",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-portfolio-soar.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/diwali-portfolio-soar.jpg",
+      "tags": [
+        "Festival"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "May Your Diwali Sparkle and Your Portfolio Soar",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-portfolio-soar.jpg"
+        },
+        "hi": {
+          "title": "दिवाली जगमगाए, पोर्टफोलियो ऊँचा उड़े",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-portfolio-soar.jpg"
+        },
+        "ta": {
+          "title": "உங்கள் தீபாவளி ஜொலிக்கட்டும், போர்ட்ஃபோலியோ உயரட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-portfolio-soar.jpg"
+        },
+        "mr": {
+          "title": "तुमची दिवाळी उजळो, पोर्टफोलिओ उंच भरारी घेवो",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-portfolio-soar.jpg"
+        },
+        "ml": {
+          "title": "ദീപാവലി തിളങ്ങട്ടെ, പോർട്ട്ഫോളിയോ ഉയരട്ടെ",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-portfolio-soar.jpg"
+        }
+      }
+    },
+    {
+      "id": "diwali-illuminate-future",
+      "title": "Let Your Financial Plan Illuminate Your Future",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-illuminate-future.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/diwali-illuminate-future.jpg",
+      "tags": [
+        "Festival"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "Let Your Financial Plan Illuminate Your Future",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-illuminate-future.jpg"
+        },
+        "hi": {
+          "title": "आपकी वित्तीय योजना से रोशन हो आपका भविष्य",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-illuminate-future.jpg"
+        },
+        "ta": {
+          "title": "உங்கள் நிதித் திட்டம் உங்கள் எதிர்காலத்தை ஒளிரச் செய்யட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-illuminate-future.jpg"
+        },
+        "mr": {
+          "title": "तुमच्या आर्थिक नियोजनाने उजळो तुमचे भविष्य",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-illuminate-future.jpg"
+        },
+        "ml": {
+          "title": "നിങ്ങളുടെ സാമ്പത്തിക പദ്ധതി ഭാവിയെ പ്രകാശിപ്പിക്കട്ടെ",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-illuminate-future.jpg"
+        }
+      }
+    },
+    {
+      "id": "diwali-wealth-freedom",
+      "title": "Wealth That Gives You Freedom",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-wealth-freedom.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/diwali-wealth-freedom.jpg",
+      "tags": [
+        "Festival"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "Wealth That Gives You Freedom",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-wealth-freedom.jpg"
+        },
+        "hi": {
+          "title": "ऐसा धन जो आपको आज़ादी दे",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-wealth-freedom.jpg"
+        },
+        "ta": {
+          "title": "உங்களுக்குச் சுதந்திரம் தரும் செல்வம்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-wealth-freedom.jpg"
+        },
+        "mr": {
+          "title": "तुम्हाला स्वातंत्र्य देणारी संपत्ती",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-wealth-freedom.jpg"
+        },
+        "ml": {
+          "title": "നിങ്ങൾക്ക് സ്വാതന്ത്ര്യം നൽകുന്ന സമ്പത്ത്",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/diwali-wealth-freedom.jpg"
+        }
+      }
+    },
+    {
+      "id": "birthday-closer-to-goals",
+      "title": "Another Year Closer to Your Goals",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-closer-to-goals.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/birthday-closer-to-goals.jpg",
+      "tags": [
+        "Birthday"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "Another Year Closer to Your Goals",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-closer-to-goals.jpg"
+        },
+        "hi": {
+          "title": "अपने लक्ष्यों के एक साल और करीब",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-closer-to-goals.jpg"
+        },
+        "ta": {
+          "title": "உங்கள் இலக்குகளுக்கு இன்னும் ஒரு வருடம் அருகில்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-closer-to-goals.jpg"
+        },
+        "mr": {
+          "title": "तुमच्या ध्येयांच्या आणखी एक वर्ष जवळ",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-closer-to-goals.jpg"
+        },
+        "ml": {
+          "title": "ലക്ഷ്യങ്ങളിലേക്ക് ഒരു വർഷം കൂടി അടുത്ത്",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-closer-to-goals.jpg"
+        }
+      }
+    },
+    {
+      "id": "birthday-investments-grow",
+      "title": "May Your Investments Grow With You",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-investments-grow.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/birthday-investments-grow.jpg",
+      "tags": [
+        "Birthday"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "May Your Investments Grow With You",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-investments-grow.jpg"
+        },
+        "hi": {
+          "title": "आपके साथ बढ़ें आपके निवेश",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-investments-grow.jpg"
+        },
+        "ta": {
+          "title": "உங்களுடன் உங்கள் முதலீடுகளும் வளரட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-investments-grow.jpg"
+        },
+        "mr": {
+          "title": "तुमच्यासोबत तुमची गुंतवणूकही वाढो",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-investments-grow.jpg"
+        },
+        "ml": {
+          "title": "നിങ്ങൾക്കൊപ്പം നിക്ഷേപങ്ങളും വളരട്ടെ",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-investments-grow.jpg"
+        }
+      }
+    },
+    {
+      "id": "birthday-all-about-you",
+      "title": "Today Is All About You",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-all-about-you.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/birthday-all-about-you.jpg",
+      "tags": [
+        "Birthday"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "Today Is All About You",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-all-about-you.jpg"
+        },
+        "hi": {
+          "title": "आज का दिन सिर्फ़ आपका है",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-all-about-you.jpg"
+        },
+        "ta": {
+          "title": "இன்றைய நாள் முழுவதும் உங்களுக்காக",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-all-about-you.jpg"
+        },
+        "mr": {
+          "title": "आजचा दिवस फक्त तुमचा",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-all-about-you.jpg"
+        },
+        "ml": {
+          "title": "ഇന്നത്തെ ദിവസം നിങ്ങളുടേതാണ്",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-all-about-you.jpg"
+        }
+      }
+    },
+    {
+      "id": "birthday-love-and-laughter",
+      "title": "A Day Filled with Love and Laughter",
+      "image_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-love-and-laughter.jpg",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/thumbs/birthday-love-and-laughter.jpg",
+      "tags": [
+        "Birthday"
+      ],
+      "crop_top": 0,
+      "languages": {
+        "en": {
+          "title": "A Day Filled with Love and Laughter",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-love-and-laughter.jpg"
+        },
+        "hi": {
+          "title": "प्यार और हँसी से भरा हो आपका दिन",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-love-and-laughter.jpg"
+        },
+        "ta": {
+          "title": "அன்பும் சிரிப்பும் நிறைந்த நாளாக அமையட்டும்",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-love-and-laughter.jpg"
+        },
+        "mr": {
+          "title": "प्रेम आणि हास्याने भरलेला जावो तुमचा दिवस",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-love-and-laughter.jpg"
+        },
+        "ml": {
+          "title": "സ്നേഹവും ചിരിയും നിറഞ്ഞ ഒരു ദിനം",
+          "image": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/marketing-flyers/en/birthday-love-and-laughter.jpg"
+        }
+      }
+    },
     {
       "id": "too-many-mutual-funds",
       "title": "Do You Have Too Many Mutual Funds?",
