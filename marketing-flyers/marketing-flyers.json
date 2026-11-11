@@ -563,6 +563,7 @@
       "tags": [
         "SIP"
       ],
+      "public": true,
       "crop_top": 90,
       "languages": {
         "en": {
@@ -693,6 +694,7 @@
       "tags": [
         "SIP"
       ],
+      "public": true,
       "crop_top": 90,
       "languages": {
         "en": {
@@ -789,6 +791,7 @@
       "tags": [
         "SIP"
       ],
+      "public": true,
       "crop_top": 90,
       "languages": {
         "en": {
@@ -1138,6 +1141,7 @@
         "SIP",
         "Wealth"
       ],
+      "public": true,
       "crop_top": 90,
       "languages": {
         "en": {
@@ -1202,6 +1206,7 @@
       "tags": [
         "SIP"
       ],
+      "public": true,
       "crop_top": 90,
       "languages": {
         "en": {
@@ -1332,6 +1337,7 @@
       "tags": [
         "SIP"
       ],
+      "public": true,
       "crop_top": 90,
       "languages": {
         "en": {

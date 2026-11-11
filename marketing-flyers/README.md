@@ -56,6 +56,10 @@ im.save('en/<flyer-id>.jpg', quality=82, optimize=True, progressive=True)"
   preview shows a language switcher only for flyers with more than one language.
 - `thumb_url` is what the grid loads; without it the grid falls back to the
   full image.
+- `"public": true` makes a flyer free on the IFA web app's logged-out
+  `/resources/marketing` page (preview + download with a "Dhan Saarthi IFA" band).
+  Every flyer without it shows locked there and sends the visitor to login.
+  Logged-in advisors always get every flyer.
 - `image` is a full URL or a path relative to this folder. `crop_top` (pixels
   trimmed from the top of the personalised preview) can also be set per
   language to override the flyer's.
