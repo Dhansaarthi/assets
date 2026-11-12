@@ -9,6 +9,7 @@ https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/<path>
 | Folder | What it holds | Docs |
 | --- | --- | --- |
 | `marketing-flyers/` | Flyer catalog and images, per language, for the IFA web app | [marketing-flyers/README.md](marketing-flyers/README.md) |
+| `Bonds/` | `bonds-videos.json` and thumbnails for the bonds explainer videos (videos are in Supabase Storage) | [Bonds/README.md](Bonds/README.md) |
 
 ## CDN cache
 

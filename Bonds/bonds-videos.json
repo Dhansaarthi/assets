@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "count": 5,
+  "videos": [
+    {
+      "id": "what-are-bonds",
+      "title": "What Are Bonds? A Simple Guide for Smart Investors",
+      "tag": "Bonds 101",
+      "description": "What a bond is, how you earn interest, and what happens when it matures.",
+      "video_url": "https://izkualqyrhgozeydabjj.supabase.co/storage/v1/object/public/bond-videos/what-are-bonds.mp4",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/Bonds/thumbs/what-are-bonds.jpg",
+      "duration_seconds": 168
+    },
+    {
+      "id": "why-companies-issue-bonds",
+      "title": "Why Companies Issue Bonds – Simple Corporate Bond Explainer",
+      "tag": "Why companies issue bonds",
+      "description": "Why companies borrow from investors through bonds instead of only from banks.",
+      "video_url": "https://izkualqyrhgozeydabjj.supabase.co/storage/v1/object/public/bond-videos/why-companies-issue-bonds.mp4",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/Bonds/thumbs/why-companies-issue-bonds.jpg",
+      "duration_seconds": 59
+    },
+    {
+      "id": "bond-market-hidden-truth",
+      "title": "The Hidden Truth of the Bond Market | How It Controls the World Economy",
+      "tag": "Bond market",
+      "description": "How the bond market links to interest rates and why it matters for the economy and your money.",
+      "video_url": "https://izkualqyrhgozeydabjj.supabase.co/storage/v1/object/public/bond-videos/bond-market-hidden-truth.mp4",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/Bonds/thumbs/bond-market-hidden-truth.jpg",
+      "duration_seconds": 335
+    },
+    {
+      "id": "bond-taxation-india",
+      "title": "How Are Bonds Taxed in India? | Interest & Capital Gains Explained",
+      "tag": "Bond taxation",
+      "description": "How bond interest and capital gains are taxed in India.",
+      "video_url": "https://izkualqyrhgozeydabjj.supabase.co/storage/v1/object/public/bond-videos/bond-taxation-india.mp4",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/Bonds/thumbs/bond-taxation-india.jpg",
+      "duration_seconds": 88
+    },
+    {
+      "id": "credit-rating-agencies",
+      "title": "What Are Credit Rating Agencies? Role, Importance & Ratings Explained (AAA to C)",
+      "tag": "Credit ratings",
+      "description": "What credit ratings mean, from AAA to C, and how to read them before you invest.",
+      "video_url": "https://izkualqyrhgozeydabjj.supabase.co/storage/v1/object/public/bond-videos/credit-rating-agencies.mp4",
+      "thumb_url": "https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/Bonds/thumbs/credit-rating-agencies.jpg",
+      "duration_seconds": 72
+    }
+  ]
+}
