@@ -1,7 +1,7 @@
 # Bonds videos
 
-Explainer videos for the bonds "Learn" section. Apps read `bonds-videos.json`
-from jsDelivr; the videos themselves are in Supabase Storage.
+The "Bonds Educational Videos" playlist. Apps read `bonds-videos.json` from
+jsDelivr; the videos themselves are in Supabase Storage.
 
 ```
 Bonds/
@@ -42,3 +42,19 @@ The array order is the display order.
 
 The CDN and browsers cache each video for a year, so upload a changed video
 under a new file name and update `video_url`, instead of overwriting it.
+
+## Playlists
+
+`../video-playlists.json` lists every playlist the apps show (Resources → Videos),
+in display order. Each entry:
+
+| Field | Meaning |
+| --- | --- |
+| `id` | Kebab-case id; used in links (`?playlist=<id>`) |
+| `title` | Playlist name, e.g. "Bonds Educational Videos" |
+| `description` | One or two lines for the playlist card |
+| `catalog_url` | Path of the playlist's catalog, relative to the repo root |
+| `cover_url` | Optional cover image path; the first video's thumbnail when missing |
+
+To add a playlist: make a folder like this one (catalog + `thumbs/`), upload its
+videos, then add an entry to `video-playlists.json` and push. No app deploy is needed.

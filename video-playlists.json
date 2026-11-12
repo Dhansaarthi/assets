@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "playlists": [
+    {
+      "id": "bonds",
+      "title": "Bonds Educational Videos",
+      "description": "What bonds are, why companies issue them, how the bond market works, how bonds are taxed in India and how to read credit ratings.",
+      "catalog_url": "Bonds/bonds-videos.json",
+      "cover_url": "Bonds/thumbs/what-are-bonds.jpg"
+    }
+  ]
+}

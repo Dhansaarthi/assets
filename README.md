@@ -10,6 +10,7 @@ https://cdn.jsdelivr.net/gh/Dhansaarthi/assets@main/<path>
 | --- | --- | --- |
 | `marketing-flyers/` | Flyer catalog and images, per language, for the IFA web app | [marketing-flyers/README.md](marketing-flyers/README.md) |
 | `Bonds/` | `bonds-videos.json` and thumbnails for the bonds explainer videos (videos are in Supabase Storage) | [Bonds/README.md](Bonds/README.md) |
+| `video-playlists.json` | The video playlists shown under Resources → Videos, in display order; each points to a catalog like `Bonds/bonds-videos.json` | [Bonds/README.md](Bonds/README.md#playlists) |
 
 ## CDN cache
 
